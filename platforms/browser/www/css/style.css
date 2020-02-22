@@ -1,0 +1,13 @@
+.background {
+  background-color: #110c51;
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  padding: 0px 10px;
+}
